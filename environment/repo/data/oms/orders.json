@@ -1,0 +1,30 @@
+[
+  {
+    "order_id": "SO-7702",
+    "dest_id": "AE-DXB",
+    "sku": "VX-9",
+    "qty_mg": 2500000,
+    "fill_policy": "ship_complete"
+  },
+  {
+    "order_id": "SO-7703",
+    "dest_id": "US-CHI",
+    "sku": "VX-9",
+    "qty_mg": 3500000,
+    "fill_policy": "allow_partial"
+  },
+  {
+    "order_id": "SO-8841",
+    "dest_id": "DE-FRA",
+    "sku": "VX-9",
+    "qty_mg": 2000000,
+    "fill_policy": "ship_complete"
+  },
+  {
+    "order_id": "SO-9100",
+    "dest_id": "US-CHI",
+    "sku": "VX-9-GENERIC",
+    "qty_mg": 1000000,
+    "fill_policy": "allow_partial"
+  }
+]

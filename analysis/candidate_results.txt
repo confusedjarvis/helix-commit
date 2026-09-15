@@ -1,0 +1,5 @@
+nop exit=1
+oracle exit=0
+fefo_only exit=1
+qa_log_only exit=1
+arrival_mrl_only exit=1

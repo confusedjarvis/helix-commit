@@ -1,0 +1,11 @@
+[
+  {
+    "lot_id": "PB-1",
+    "sku": "VX-9",
+    "qty_mg": 400000,
+    "expiry": "2026-07-01",
+    "received_at": "2025-04-01T00:00:00Z",
+    "temp_class": "2-8C",
+    "qa_status": "released"
+  }
+]

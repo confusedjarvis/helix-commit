@@ -1,0 +1,16 @@
+[
+  {
+    "dest_id": "US-CHI",
+    "name": "Chicago DC",
+    "transit_days": 1,
+    "min_remaining_days": 14,
+    "temp_class": "2-8C"
+  },
+  {
+    "dest_id": "AE-DXB",
+    "name": "Dubai bonded",
+    "transit_days": 4,
+    "min_remaining_days": 90,
+    "temp_class": "2-8C"
+  }
+]

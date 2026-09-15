@@ -1,0 +1,3 @@
+# Intentionally empty. The verifier uses the Python 3.12 standard library only
+# (unittest, subprocess, pathlib). Do not pip-install anything when building
+# or running the verifier image.

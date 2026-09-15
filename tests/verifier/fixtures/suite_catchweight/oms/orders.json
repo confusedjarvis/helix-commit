@@ -1,0 +1,5 @@
+[
+  {"order_id": "HX-CW-A", "dest_id": "US-CHI", "sku": "VX-9", "qty_mg": 333334, "fill_policy": "allow_partial"},
+  {"order_id": "HX-CW-B", "dest_id": "US-CHI", "sku": "VX-9", "qty_mg": 333333, "fill_policy": "allow_partial"},
+  {"order_id": "HX-CW-C", "dest_id": "US-CHI", "sku": "VX-9", "qty_mg": 333333, "fill_policy": "allow_partial"}
+]

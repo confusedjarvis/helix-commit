@@ -1,0 +1,8 @@
+[project]
+name = "helix-commit"
+version = "2.4.0"
+description = "Lot allocation and shipment commit for Helix Cold Chain"
+requires-python = ">=3.12"
+
+[tool.setuptools.packages.find]
+where = ["src"]

@@ -1,0 +1,29 @@
+[
+  {
+    "lot_id": "HID-OLD",
+    "sku": "VX-9",
+    "qty_mg": 9000000,
+    "expiry": "2026-04-10",
+    "received_at": "2024-01-01T00:00:00Z",
+    "temp_class": "2-8C",
+    "qa_status": "released"
+  },
+  {
+    "lot_id": "HID-NEW",
+    "sku": "VX-9",
+    "qty_mg": 9000000,
+    "expiry": "2026-12-15",
+    "received_at": "2025-12-01T00:00:00Z",
+    "temp_class": "2-8C",
+    "qa_status": "released"
+  },
+  {
+    "lot_id": "HID-MID",
+    "sku": "VX-9",
+    "qty_mg": 9000000,
+    "expiry": "2026-07-01",
+    "received_at": "2025-06-01T00:00:00Z",
+    "temp_class": "2-8C",
+    "qa_status": "released"
+  }
+]

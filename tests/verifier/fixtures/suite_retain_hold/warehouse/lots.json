@@ -1,0 +1,20 @@
+[
+  {
+    "lot_id": "RH-A",
+    "sku": "VX-RH-A",
+    "qty_mg": 1000000,
+    "expiry": "2026-12-01",
+    "received_at": "2025-06-01T00:00:00Z",
+    "temp_class": "2-8C",
+    "qa_status": "released"
+  },
+  {
+    "lot_id": "RH-B",
+    "sku": "VX-RH-B",
+    "qty_mg": 800000,
+    "expiry": "2026-11-01",
+    "received_at": "2025-06-01T00:00:00Z",
+    "temp_class": "2-8C",
+    "qa_status": "released"
+  }
+]

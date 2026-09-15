@@ -1,0 +1,17 @@
+[
+  {
+    "lot_id": "LOT-1188",
+    "ts": "2026-03-14T18:00:00Z",
+    "type": "quarantine",
+    "reason": "logger_gap",
+    "seq": 1
+  },
+  {
+    "lot_id": "LOT-6600",
+    "ts": "2026-03-10T09:00:00Z",
+    "type": "hold_qty",
+    "reason": "retain_sample",
+    "seq": 1,
+    "qty_mg": 200000
+  }
+]

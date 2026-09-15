@@ -1,0 +1,16 @@
+[
+  {
+    "order_id": "HX-RH-01",
+    "dest_id": "US-CHI",
+    "sku": "VX-RH-A",
+    "qty_mg": 700000,
+    "fill_policy": "ship_complete"
+  },
+  {
+    "order_id": "HX-RH-02",
+    "dest_id": "US-CHI",
+    "sku": "VX-RH-B",
+    "qty_mg": 600000,
+    "fill_policy": "ship_complete"
+  }
+]

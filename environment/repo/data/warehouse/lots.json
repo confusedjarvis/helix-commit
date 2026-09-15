@@ -1,0 +1,56 @@
+[
+  {
+    "lot_id": "LOT-2214",
+    "sku": "VX-9",
+    "qty_mg": 8000000,
+    "expiry": "2026-04-12",
+    "received_at": "2024-11-02T00:00:00Z",
+    "temp_class": "2-8C",
+    "qa_status": "released"
+  },
+  {
+    "lot_id": "LOT-3301",
+    "sku": "VX-9",
+    "qty_mg": 8000000,
+    "expiry": "2026-12-01",
+    "received_at": "2025-10-20T00:00:00Z",
+    "temp_class": "2-8C",
+    "qa_status": "released"
+  },
+  {
+    "lot_id": "LOT-1188",
+    "sku": "VX-9",
+    "qty_mg": 5000000,
+    "expiry": "2026-09-15",
+    "received_at": "2025-01-15T00:00:00Z",
+    "temp_class": "2-8C",
+    "qa_status": "released"
+  },
+  {
+    "lot_id": "LOT-4402",
+    "sku": "VX-9-GENERIC",
+    "qty_mg": 400000,
+    "expiry": "2026-11-01",
+    "received_at": "2025-08-01T00:00:00Z",
+    "temp_class": "2-8C",
+    "qa_status": "released"
+  },
+  {
+    "lot_id": "LOT-5509",
+    "sku": "VX-9",
+    "qty_mg": 3000000,
+    "expiry": "2026-08-01",
+    "received_at": "2025-04-01T00:00:00Z",
+    "temp_class": "2-8C",
+    "qa_status": "released"
+  },
+  {
+    "lot_id": "LOT-6600",
+    "sku": "VX-FROZEN",
+    "qty_mg": 1000000,
+    "expiry": "2027-01-01",
+    "received_at": "2025-02-01T00:00:00Z",
+    "temp_class": "-20C",
+    "qa_status": "released"
+  }
+]

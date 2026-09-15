@@ -1,0 +1,4 @@
+[
+  {"warehouse_sku": "VX-RH-A", "accepted_by_customer_skus": ["VX-RH-A"]},
+  {"warehouse_sku": "VX-RH-B", "accepted_by_customer_skus": ["VX-RH-B"]}
+]

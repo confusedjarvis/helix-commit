@@ -1,0 +1,20 @@
+[
+  {
+    "lot_id": "QA-HELD",
+    "sku": "VX-9",
+    "qty_mg": 4000000,
+    "expiry": "2026-10-01",
+    "received_at": "2025-01-01T00:00:00Z",
+    "temp_class": "2-8C",
+    "qa_status": "released"
+  },
+  {
+    "lot_id": "QA-FREE",
+    "sku": "VX-9",
+    "qty_mg": 4000000,
+    "expiry": "2026-11-01",
+    "received_at": "2025-06-01T00:00:00Z",
+    "temp_class": "2-8C",
+    "qa_status": "released"
+  }
+]

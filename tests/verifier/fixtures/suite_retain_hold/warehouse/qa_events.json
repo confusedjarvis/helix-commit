@@ -1,0 +1,25 @@
+[
+  {
+    "lot_id": "RH-A",
+    "ts": "2026-03-13T10:00:00Z",
+    "type": "hold_qty",
+    "reason": "retain_sample",
+    "seq": 1,
+    "qty_mg": 400000
+  },
+  {
+    "lot_id": "RH-A",
+    "ts": "2026-03-14T09:00:00Z",
+    "type": "release",
+    "reason": "batch_release_catchup",
+    "seq": 2
+  },
+  {
+    "lot_id": "RH-B",
+    "ts": "2026-03-14T12:00:00Z",
+    "type": "hold_qty",
+    "reason": "retain_sample",
+    "seq": 1,
+    "qty_mg": 100000
+  }
+]

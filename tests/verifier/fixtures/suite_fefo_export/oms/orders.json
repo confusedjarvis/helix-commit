@@ -1,0 +1,9 @@
+[
+  {
+    "order_id": "HX-DXB-01",
+    "dest_id": "AE-DXB",
+    "sku": "VX-9",
+    "qty_mg": 2000000,
+    "fill_policy": "ship_complete"
+  }
+]

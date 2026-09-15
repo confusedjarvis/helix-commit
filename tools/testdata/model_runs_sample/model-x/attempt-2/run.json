@@ -1,0 +1,10 @@
+{
+  "model": "sample-model-x",
+  "model_version": "synthetic-tool-test",
+  "attempt": 2,
+  "timestamp": "2026-01-01T00:10:00Z",
+  "pass": true,
+  "stump": false,
+  "verifier_exit_code": 0,
+  "note": "SYNTHETIC_TOOL_TEST"
+}

@@ -1,0 +1,10 @@
+[
+  {
+    "warehouse_sku": "VX-9",
+    "accepted_by_customer_skus": ["VX-9", "VX-9-GENERIC"]
+  },
+  {
+    "warehouse_sku": "VX-9-GENERIC",
+    "accepted_by_customer_skus": ["VX-9-GENERIC"]
+  }
+]

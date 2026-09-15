@@ -1,0 +1,11 @@
+[
+  {
+    "lot_id": "SC-SMALL",
+    "sku": "VX-9",
+    "qty_mg": 300000,
+    "expiry": "2026-09-01",
+    "received_at": "2025-02-01T00:00:00Z",
+    "temp_class": "2-8C",
+    "qa_status": "released"
+  }
+]

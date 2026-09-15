@@ -1,0 +1,8 @@
+# Frozen commit cut. Do not read wall clock.
+commit_at = "2026-03-15T12:00:00Z"
+
+# Leftover 2023 picker flag. Not policy.
+allocation_strategy = "fifo"
+
+# Handheld display unit. Ledger unit is milligrams.
+weight_unit = "kg"

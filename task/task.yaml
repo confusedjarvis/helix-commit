@@ -1,0 +1,21 @@
+name: helix-coldchain-commit
+difficulty: hard
+language: python
+timeout_sec: 3600
+scope:
+  - repository-level debugging
+  - api/service integration
+  - multi-file implementation
+required_tool_usage:
+  - read /app/docs/ALLOCATION_POLICY.md as the commit contract
+  - treat /app/docs/MIGRATION_NOTES.md and leftover runtime flags as non-authoritative
+  - inspect warehouse, compliance, and OMS extracts together
+  - repair allocation across warehouse QA, compliance MRL, substitution, weights, and commit selection
+  - keep `python3 -m helix_alloc` working for unseen extracts
+framework: docker
+category: software-engineering
+subcategory: fulfillment-allocation
+summary: >
+  Repair a warehouse lot-allocation service so commit-time eligibility, FEFO,
+  QA timeline, destination arrival shelf-life, one-way substitution, and
+  milligram inventory identities hold on held-out extracts.

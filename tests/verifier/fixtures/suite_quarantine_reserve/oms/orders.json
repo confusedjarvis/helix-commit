@@ -1,0 +1,9 @@
+[
+  {
+    "order_id": "HX-FRA-09",
+    "dest_id": "DE-FRA",
+    "sku": "VX-9",
+    "qty_mg": 1500000,
+    "fill_policy": "ship_complete"
+  }
+]

@@ -1,0 +1,11 @@
+[
+  {
+    "lot_id": "FZ-1",
+    "sku": "VX-9",
+    "qty_mg": 2000000,
+    "expiry": "2027-01-01",
+    "received_at": "2025-01-01T00:00:00Z",
+    "temp_class": "-20C",
+    "qa_status": "released"
+  }
+]

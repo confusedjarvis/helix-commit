@@ -1,0 +1,9 @@
+[
+  {
+    "order_id": "HX-GEN-22",
+    "dest_id": "US-CHI",
+    "sku": "VX-9-GENERIC",
+    "qty_mg": 800000,
+    "fill_policy": "allow_partial"
+  }
+]
